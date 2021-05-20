@@ -8,3 +8,5 @@ hosted as heroku app
  Demo Link :https://image-classifier-001.herokuapp.com/
 
 DEMO Video : https://drive.google.com/file/d/121CGDPMkRDhvjqqVjc-_s95DgLdLTPS4/view?usp=sharing
+
+Used CLoudinary for image storing
